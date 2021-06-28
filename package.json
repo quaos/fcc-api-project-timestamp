@@ -1,7 +1,8 @@
 {
-	"name": "fcc-api-projects-boilerplate",
-	"version": "0.0.1",
+	"name": "fcc-api-project-timestamp",
+	"version": "1.0.0",
 	"description": "An FCC Backend Challenge",
+	"author": "Chakrit W <quaos.qrz@gmail.com>",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
+		"url": "https://githost.com/quaos/fcc-api-project-timestamp.git"
 	},
 	"keywords": [
 		"node",
